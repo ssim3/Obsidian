@@ -1,3 +1,3 @@
-# Obsidian
+![Poros](https://github.com/ssim3/Poros/blob/main/Poros.png)
 
-Git Repository of my obsidian notes.
+Obsidian Markdown notes for my learning.
