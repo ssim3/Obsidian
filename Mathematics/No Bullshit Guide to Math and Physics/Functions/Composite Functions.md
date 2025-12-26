@@ -1,10 +1,10 @@
 ### Definition
 
-Combining two or more simple functions by chaining them together to build a more complicated function.
+Combining two or more simple [[Functions]] by chaining them together to build a more complicated function.
 $$
 fg(x)=f(g(x)) = z
 $$
-**Example**
+**Example**s
 
 Consider the functions
 $g : R+ → R+$ given by $g(x) = √x$  
